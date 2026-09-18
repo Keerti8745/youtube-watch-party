@@ -350,7 +350,8 @@ function App() {
             controls: 1,
             modestbranding: 1,
             rel: 0,
-            playsinline: 1
+            playsinline: 1,
+            origin: window.location.origin
         }
     };
 
