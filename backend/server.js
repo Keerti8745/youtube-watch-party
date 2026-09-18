@@ -10,7 +10,7 @@ const io = new Server(server, {
     cors: {
         origin: [
             "http://localhost:5173",
-            "https://youtube-watch-party-n8fwe7lr9-cartoon-projects.vercel.app"
+            "https://youtube-watch-party-5bm3.vercel.app/"
         ],
         methods: ["GET", "POST"]
     }
